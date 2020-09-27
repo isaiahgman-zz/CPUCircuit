@@ -1,0 +1,12 @@
+---
+:id: 34879800
+:submitters:
+- :name: Isaiah Gathala
+  :email: isg13@pitt.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-16 15:38:48.392660000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-16 08:38:48.392660000 Z
+:status: processed
+:score: 100.0
